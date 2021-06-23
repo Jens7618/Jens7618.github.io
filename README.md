@@ -1,3 +1,3 @@
 # index.html
-lekkere brocoli
-<h1> Hier kan je allerlei soorten brocoli kopen </H1> 
+lekkere broccoli
+<h1> Hier kan je allerlei soorten broccoli kopen </H1> 
